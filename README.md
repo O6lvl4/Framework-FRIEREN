@@ -14,7 +14,7 @@ graph LR
         I -->|Through Communication| R2(R: Relationships)
     end
     R2 -->|Aiming for a Common Goal| X
-    X --> E2(Goals)
+    X --> E2(End Goals)
     E2 -->|Achievement and Transcendence| N(Nirvana)
 ```
 
