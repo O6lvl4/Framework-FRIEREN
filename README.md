@@ -2,6 +2,22 @@
 
 Framework-FRIERENは、技術者およびプロフェッショナルのための包括的な自己成長フレームワークです。基礎から始まり、キャリアと人生の目標に向けて進化し続けることを目指しています。このフレームワークは、継続的な学習、自己反省、インスピレーションの促進、そして社会への貢献を通じて、個人の全体的な成長をサポートします。
 
+```mermaid
+graph LR
+    subgraph X ["Overall Growth Cycle"]
+        subgraph Self ["Self-Reflection and Learning"]
+            F(F: Foundation) --> R(R: Reflection)
+            R --> E(E: Exploration)
+        end
+        E --> F
+        Self -->|Inspired by| I(I: Inspiration)
+        I -->|Through Communication| R2(R: Relationships)
+    end
+    R2 -->|Aiming for a Common Goal| X
+    X --> E2(Goals)
+    E2 -->|Achievement and Transcendence| N(Nirvana)
+```
+
 ## フレームワークの構成要素
 
 - **Foundation (基礎)**: 強固な技術的基礎を築きます。
