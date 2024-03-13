@@ -1,6 +1,6 @@
 # Framework-FRIEREN
 
-![image](https://github.com/O6lvl4/Framework-FRIEREN/assets/96694331/1b4ab644-cd4f-4bb3-9d0f-a49e52a8eb15)
+<img src="https://github.com/O6lvl4/Framework-FRIEREN/assets/96694331/1b4ab644-cd4f-4bb3-9d0f-a49e52a8eb15" maxWidth="240px">
 
 Framework-FRIERENは、技術者およびプロフェッショナルのための包括的な自己成長フレームワークです。基礎から始まり、キャリアと人生の目標に向けて進化し続けることを目指しています。このフレームワークは、継続的な学習、自己反省、インスピレーションの促進、そして社会への貢献を通じて、個人の全体的な成長をサポートします。
 
