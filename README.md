@@ -2,33 +2,34 @@
 
 <img src="https://github.com/O6lvl4/Framework-FRIEREN/assets/96694331/1b4ab644-cd4f-4bb3-9d0f-a49e52a8eb15" width="280px" height="280px">
 
-Framework-FRIERENは、技術者およびプロフェッショナルのための包括的な自己成長フレームワークです。基礎から始まり、キャリアと人生の目標に向けて進化し続けることを目指しています。このフレームワークは、継続的な学習、自己反省、インスピレーションの促進、そして社会への貢献を通じて、個人の全体的な成長をサポートします。
+Framework-FRIERENは、技術者およびプロフェッショナルのための包括的な自己成長フレームワークです。基礎から始まり、キャリアと人生の目標に向けて進化し続けることを目指しています。このフレームワークは、継続的な学習、自己反省、インスピレーションの探求、そして社会への貢献を通じて、個人の全体的な成長をサポートします。
 
 ```mermaid
 graph LR
-    subgraph X ["Overall Growth Cycle"]
-        subgraph Self ["Self-Reflection and Learning"]
-            F(F: Foundation) --> R(R: Reflection)
-            R --> E(E: Exploration)
-        end
-        E --> F
-        Self -->|Inspired by| I(I: Inspiration)
-        I -->|Through Communication| R2(R: Relationships)
-    end
-    R2 -->|Aiming for a Common Goal| X
-    X --> E2(End Goals)
-    E2 -->|Achievement and Transcendence| N(Nirvana)
+subgraph Cycle
+F(F: Foundation) --> R(R: Reflection)
+R --> I(I: Inspiration)
+I --> E(E: Exploration)
+E --> F
+end
+Cycle --- R2(R: Relationships)
+EG --- R2(R: Relationships)
+N --- R2(R: Relationships)
+Cycle --> EG(E: End Goals)
+EG --> Cycle
+EG --> N(N: Nirvana)
+N --> Cycle
 ```
 
 ## フレームワークの構成要素
 
-- **Foundation (基礎)**: 強固な技術的基礎を築きます。
-- **Reflection (反省)**: 自己の行動や経験から学び、自己改善を図ります。
-- **Inspiration (触発)**: 技術やアイデアで自分自身や周囲を触発します。
-- **Exploration (探求)**: 新しい知識、技術、アイデアを求めて探索します。
-- **Relationships (人間関係)**: 良好な人間関係を築き、チームワークを強化します。
-- **End Goals (目標)**: 長期的なキャリアと人生の目標に向かって進みます。
-- **Nirvana (涅槃)**: 技術的、職業的成長を超え、精神的な満足と内面的な平和を追求します。
+- **Foundation (基礎)**: 自律的に専門分野の基礎知識とスキルを身につけます。
+- **Reflection (反省)**: 自己理解を深め、経験から学び、自己改善の指針とします。
+- **Inspiration (触発)**: 内なる創造性と情熱を呼び覚まし、新しいアイデアや挑戦に取り組みます。
+- **Exploration (探求)**: 専門外の領域にも積極的に触れ、知識と視野を広げます。
+- **Relationships (人間関係)**: 多様な人々とつながり、協働とイノベーションを促進します。
+- **End Goals (目標)**: 自分の人生の目的や長期的な目標を明確にし、実現への道筋を描きます。
+- **Nirvana (涅槃)**: 自己実現を果たし、社会に意義ある貢献をしながら、内面的な平和と充実感を得ます。
 
 ## 目的とビジョン
 
@@ -36,11 +37,11 @@ Framework-FRIERENは、個人が自分自身のポテンシャルを最大限に
 
 ## 使い方
 
-各セクションには、目標の設定、学習リソースの提案、実践的なアクションアイテムが含まれています。利用者は、このフレームワークを個人の学習スタイルやキャリア目標に合わせてカスタマイズし、自分自身の成長プランを作成することができます。
+各セクションには、目標の設定、実践的なアクションプラン、自己成長のためのリソースが含まれています。利用者は、このフレームワークを個人の学習スタイルやキャリア目標に合わせてカスタマイズし、自分自身の成長プランを作成することができます。
 
 ## コミュニティ
 
-Framework-FRIEREN、学習と成長を共有し、お互いを支え合うコミュニティの構築を目指しています。フィードバック、質問、または成功体験を共有したい場合は、ぜひ私たちのコミュニティに参加してください。
+Framework-FRIERENは、学習と成長を共有し、お互いを支え合うコミュニティの構築を目指しています。フィードバック、質問、または成功体験を共有したい場合は、ぜひ私たちのコミュニティに参加してください。
 
 ## ライセンス
 
@@ -49,4 +50,3 @@ Framework-FRIEREN、学習と成長を共有し、お互いを支え合うコミ
 ## 貢献
 
 このフレームワークの改善に貢献したい方は、プルリクエストを送信するか、イシューを開いてください。あなたの知見と経験は、コミュニティ全体の成長に貢献することができます。
-
